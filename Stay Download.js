@@ -1,1 +1,1 @@
-https://cdn.rawgit.com/BOSSDROID/stay-download/ee4b3b22/test%20safelink%20stay.txt
+https://cdn.jsdelivr.net/gh/BOSSDROID/stay-download@ee4b3b22/test%20safelink%20stay.txt
